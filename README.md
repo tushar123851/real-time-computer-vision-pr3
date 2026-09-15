@@ -489,7 +489,6 @@ FPS Benchmark + Final Analysis
 
 <div align="center">
 
-### ⭐ If you like this project, consider giving the repository a star!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thank%20You&fontSize=28&fontAlignY=70" width="100%" />
 
